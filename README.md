@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Quantum Gambit
 
 **Every chess game becomes art.**
